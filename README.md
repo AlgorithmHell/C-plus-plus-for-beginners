@@ -1,5 +1,5 @@
-# C-university
-Laboratory works, first course
-This repository contains c++ programs'solutions for beginners
-In the folder "Tasks" you may see all the tasks 
-And I hope folder "Solutions" is clear.
+# STL
+Lab 0 (view lexicographical word sort debt)
+Lab 1 (completed and with no more mistakes, i promise)
+Lab 2
+# WRITE ME IF SOMETHING IS WRONG AGAIN: https://vk.com/algorithmhellos I WILL REMAKE BY TOMORROW
