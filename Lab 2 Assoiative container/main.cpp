@@ -21,12 +21,6 @@
 
 
 using namespace std;
-#if 0
-_setmode(_fileno(stdout), 0x20000);
-_setmode(_fileno(stdin), 0x20000);
-_setmode(_fileno(stderr), 0x20000);
-#endif
-
 
 class Student
 {
