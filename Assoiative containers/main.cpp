@@ -68,7 +68,7 @@ int main()
 		auto upper = data.upper_bound(request);
 		if (lower != data.end())
 		{
-			cout << "Student"; (++lower == upper) ? cout << "" : cout << "(s)";cout<<" with Surname " << request << endl;
+			cout << "Student"; (++lower == upper) ? cout << "" : cout << "s";cout<<" with Surname " << request << endl;
 			lower--;
 			for (auto i = lower; i != upper; i++)
 			{
